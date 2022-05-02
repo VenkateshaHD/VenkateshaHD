@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VenkateshaHD
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @Venkatesha
+- 👀  web development
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me venkyvenkateshahd1999@gmail.com
