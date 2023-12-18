@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Venkatesha
-- 👀  web development
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 Full Stack Developer 
 - 📫 How to reach me venkyvenkateshahd1999@gmail.com
 
 <!---
